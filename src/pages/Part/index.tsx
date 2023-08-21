@@ -31,7 +31,6 @@ const DualAxisLineChart = () => {
 
   return (
     <>
-      <div id="container"></div>
       <div id="chart-container"></div>
     </>
   );
